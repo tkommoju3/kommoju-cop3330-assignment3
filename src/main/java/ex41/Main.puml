@@ -1,0 +1,14 @@
+@startuml
+class App
+{
+void main()
+}
+class Main
+{
+ArrayList<String> readPeople()
+void outputPeople()
+}
+
+App o->Main
+
+@enduml
