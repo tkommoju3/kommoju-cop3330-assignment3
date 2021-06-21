@@ -5,8 +5,6 @@
 
 package ex46;
 
-
-
 public class Main implements Comparable<Main>{
     private String name;
     private int count;
